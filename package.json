@@ -1,0 +1,25 @@
+{
+  "name": "study-graphql",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000t\u0000u\u0000d\u0000y\u0000-\u0000g\u0000r\u0000a\u0000p\u0000h\u0000a\u0000l\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayeon-choi/study-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayeon-choi/study-graphql/issues"
+  },
+  "homepage": "https://github.com/dayeon-choi/study-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^2.25.0",
+    "convert-csv-to-json": "^1.3.0",
+    "graphql": "^15.5.0"
+  }
+}
